@@ -1,2 +1,5 @@
 # android-ar
-Sample app with the usage of AR
+
+Repository for learning AR. Used SDKs:
+
+* [Maxst](http://maxst.com/#/) SDK with imported samples
